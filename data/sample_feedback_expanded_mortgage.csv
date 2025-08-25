@@ -1,0 +1,151 @@
+ticket_id,created_at,product,rating,review_text
+1,2025-04-17,Doc Uploader,5,"It works as expected, not much else to say."
+2,2025-10-25,Loan Portal,5,Crashes every time I try to upload a file.
+3,2025-06-12,Loan Portal,5,Support team was quick and kind.
+4,2025-09-23,Doc Uploader,2,The patch broke my saved settings. Please fix ASAP.
+5,2025-03-20,Rate Tracker,3,Terrible. Payment failed multiple times and no support response. Search results feel random and unhelpful.
+6,2025-04-16,Loan Portal,2,Support team was quick and kind.
+7,2025-02-01,Doc Uploader,4,"Decent, though could be faster."
+8,2025-03-10,Doc Uploader,5,"It works as expected, not much else to say."
+9,2025-12-10,Rate Tracker,5,"MFA setup is unclear, I can’t log in anymore."
+10,2025-08-31,Rate Tracker,5,Keeps recommending products I already bought. Very annoying.
+11,2025-11-28,Loan Portal,3,Search results feel random and unhelpful.
+12,2025-07-10,Doc Uploader,2,Absolutely love the new dashboard! Smooth and reliable.
+13,2025-11-18,Loan Portal,1,Terrible. Payment failed multiple times and no support response.
+14,2025-03-13,Rate Tracker,2,Dark mode looks fantastic and makes it easier on my eyes.
+15,2025-11-05,Loan Portal,5,"Ok overall, but some things feel outdated."
+16,2025-05-20,Loan Portal,1,Keeps recommending products I already bought. Very annoying. Terrible. Payment failed multiple times and no support response.
+17,2025-06-24,Rate Tracker,2,Search results feel random and unhelpful.
+18,2025-02-22,Doc Uploader,4,Dark mode looks fantastic and makes it easier on my eyes.
+19,2025-07-09,Closing Scheduler,4,"Great onboarding, felt very intuitive."
+20,2025-11-04,Closing Scheduler,5,"Decent, though could be faster."
+21,2025-04-19,Rate Tracker,2,"Ok overall, but some things feel outdated."
+22,2025-08-11,Doc Uploader,2,Dark mode looks fantastic and makes it easier on my eyes.
+23,2025-05-15,Doc Uploader,5,Terrible. Payment failed multiple times and no support response.
+24,2025-04-22,Doc Uploader,3,"Ok overall, but some things feel outdated."
+25,2025-04-13,Loan Portal,3,
+26,2025-12-15,Loan Portal,1,Terrible. Payment failed multiple times and no support response.
+27,2025-02-17,Closing Scheduler,5,"Login screen won’t load since the last update, very frustrating."
+28,2025-11-17,Loan Portal,5,Absolutely love the new dashboard! Smooth and reliable.
+29,2025-12-25,Rate Tracker,2,Dark mode looks fantastic and makes it easier on my eyes.
+30,2025-03-26,Doc Uploader,5,Terrible. Payment failed multiple times and no support response. Terrible. Payment failed multiple times and no support response.
+31,2025-08-03,Rate Tracker,1,The patch broke my saved settings. Please fix ASAP. Crashes every time I try to upload a file.
+32,2025-04-22,Loan Portal,4,This app has saved me hours every week.
+33,2025-09-29,Doc Uploader,5,"Ok overall, but some things feel outdated."
+34,2025-02-23,Doc Uploader,5,Delivery was late and packaging damaged.
+35,2025-11-11,Rate Tracker,2,Average experience. Nothing special.
+36,2025-01-23,Loan Portal,3,Absolutely love the new dashboard! Smooth and reliable.
+37,2025-07-29,Loan Portal,3,Dark mode looks fantastic and makes it easier on my eyes.
+38,2025-07-10,Doc Uploader,3,"Ok overall, but some things feel outdated."
+39,2025-06-07,Rate Tracker,2,"Login screen won’t load since the last update, very frustrating."
+40,2025-08-22,Loan Portal,5,
+41,2025-05-12,Closing Scheduler,2,Absolutely love the new dashboard! Smooth and reliable.
+42,2025-11-11,Loan Portal,4,Terrible. Payment failed multiple times and no support response.
+43,2025-03-07,Doc Uploader,4,Terrible. Payment failed multiple times and no support response.
+44,2025-01-07,Doc Uploader,5,Search results feel random and unhelpful.
+45,2025-11-07,Loan Portal,1,Terrible. Payment failed multiple times and no support response. Keeps recommending products I already bought. Very annoying.
+46,2025-07-09,Loan Portal,5,"Charged twice for the same invoice, refund process unclear. Delivery was late and packaging damaged."
+47,2025-05-11,Doc Uploader,5,Support team was quick and kind.
+48,2025-06-06,Rate Tracker,2,Absolutely love the new dashboard! Smooth and reliable.
+49,2025-09-02,Closing Scheduler,3,Delivery was late and packaging damaged.
+50,2025-09-11,Loan Portal,4,"Login screen won’t load since the last update, very frustrating."
+51,2025-10-21,Rate Tracker,1,The patch broke my saved settings. Please fix ASAP. Delivery was late and packaging damaged.
+52,2025-08-25,Rate Tracker,3,"Great onboarding, felt very intuitive."
+53,2025-11-22,Rate Tracker,3,
+54,2025-02-24,Closing Scheduler,3,Search results feel random and unhelpful.
+55,2025-08-13,Doc Uploader,1,Crashes every time I try to upload a file.
+56,2025-07-16,Closing Scheduler,4,Average experience. Nothing special.
+57,2025-06-26,Closing Scheduler,3,"Decent, though could be faster."
+58,2025-07-17,Loan Portal,1,The patch broke my saved settings. Please fix ASAP.
+59,2025-08-18,Closing Scheduler,4,Delivery was late and packaging damaged. Keeps recommending products I already bought. Very annoying.
+60,2025-10-18,Closing Scheduler,3,Dark mode looks fantastic and makes it easier on my eyes.
+61,2025-10-18,Rate Tracker,3,Search results feel random and unhelpful.
+62,2025-03-31,Doc Uploader,3,Dark mode looks fantastic and makes it easier on my eyes.
+63,2025-10-17,Closing Scheduler,2,Support team was quick and kind.
+64,2025-06-03,Closing Scheduler,4,Support team was quick and kind.
+65,2025-11-12,Rate Tracker,5,"Charged twice for the same invoice, refund process unclear."
+66,2025-04-11,Doc Uploader,5,Dark mode looks fantastic and makes it easier on my eyes.
+67,2025-09-19,Loan Portal,3,Crashes every time I try to upload a file.
+68,2025-07-22,Doc Uploader,2,"MFA setup is unclear, I can’t log in anymore."
+69,2025-07-15,Doc Uploader,3,Terrible. Payment failed multiple times and no support response.
+70,2025-02-27,Doc Uploader,1,"Login screen won’t load since the last update, very frustrating."
+71,2025-05-22,Doc Uploader,3,"Ok overall, but some things feel outdated."
+72,2025-02-12,Closing Scheduler,3,"Ok overall, but some things feel outdated."
+73,2025-03-09,Closing Scheduler,1,"Decent, though could be faster."
+74,2025-08-25,Loan Portal,2,Search results feel random and unhelpful.
+75,2025-06-30,Closing Scheduler,1,Dark mode looks fantastic and makes it easier on my eyes.
+76,2025-02-20,Closing Scheduler,5,Delivery was late and packaging damaged.
+77,2025-06-21,Loan Portal,5,"It works as expected, not much else to say."
+78,2025-07-14,Loan Portal,5,This app has saved me hours every week.
+79,2025-12-09,Doc Uploader,5,"Decent, though could be faster."
+80,2025-07-22,Closing Scheduler,5,
+81,2025-11-07,Closing Scheduler,3,"Decent, though could be faster."
+82,2025-06-16,Loan Portal,5,Crashes every time I try to upload a file. Search results feel random and unhelpful.
+83,2025-11-10,Closing Scheduler,4,"Ok overall, but some things feel outdated."
+84,2025-03-21,Rate Tracker,2,"It works as expected, not much else to say."
+85,2025-09-25,Rate Tracker,2,Absolutely love the new dashboard! Smooth and reliable.
+86,2025-09-26,Rate Tracker,5,Keeps recommending products I already bought. Very annoying.
+87,2025-12-24,Closing Scheduler,3,"Solid product, integrates well with our workflow."
+88,2025-08-02,Loan Portal,2,"Great onboarding, felt very intuitive."
+89,2025-06-05,Doc Uploader,3,
+90,2025-04-05,Loan Portal,2,Absolutely love the new dashboard! Smooth and reliable.
+91,2025-01-10,Closing Scheduler,4,"Great onboarding, felt very intuitive."
+92,2025-09-11,Rate Tracker,3,Support team was quick and kind.
+93,2025-07-10,Rate Tracker,5,"Ok overall, but some things feel outdated."
+94,2025-06-14,Loan Portal,4,"It works as expected, not much else to say."
+95,2025-11-14,Doc Uploader,3,Terrible. Payment failed multiple times and no support response.
+96,2025-01-16,Doc Uploader,4,Average experience. Nothing special.
+97,2025-12-24,Loan Portal,2,Absolutely love the new dashboard! Smooth and reliable.
+98,2025-09-18,Doc Uploader,4,Crashes every time I try to upload a file.
+99,2025-10-05,Doc Uploader,4,Absolutely love the new dashboard! Smooth and reliable.
+100,2025-09-15,Loan Portal,4,This app has saved me hours every week.
+101,2025-03-12,Closing Scheduler,3,
+102,2025-07-15,Loan Portal,4,"Decent, though could be faster."
+103,2025-10-10,Doc Uploader,1,"Great onboarding, felt very intuitive."
+104,2025-05-17,Loan Portal,4,"MFA setup is unclear, I can’t log in anymore."
+105,2025-06-22,Rate Tracker,3,Crashes every time I try to upload a file.
+106,2025-03-13,Rate Tracker,5,Search results feel random and unhelpful.
+107,2025-06-23,Closing Scheduler,4,Average experience. Nothing special.
+108,2025-03-10,Doc Uploader,5,Dark mode looks fantastic and makes it easier on my eyes.
+109,2025-10-14,Closing Scheduler,4,"Great onboarding, felt very intuitive."
+110,2025-08-19,Doc Uploader,2,Delivery was late and packaging damaged.
+111,2025-06-05,Closing Scheduler,2,"Solid product, integrates well with our workflow."
+112,2025-11-11,Closing Scheduler,1,"Decent, though could be faster."
+113,2025-07-23,Closing Scheduler,1,Dark mode looks fantastic and makes it easier on my eyes.
+114,2025-01-19,Rate Tracker,1,Dark mode looks fantastic and makes it easier on my eyes.
+115,2025-01-02,Doc Uploader,4,Delivery was late and packaging damaged.
+116,2025-03-25,Rate Tracker,2,Crashes every time I try to upload a file.
+117,2025-08-19,Closing Scheduler,4,"Solid product, integrates well with our workflow."
+118,2025-02-08,Doc Uploader,1,Delivery was late and packaging damaged.
+119,2025-07-12,Loan Portal,4,Support team was quick and kind.
+120,2025-07-17,Rate Tracker,5,This app has saved me hours every week.
+121,2025-03-25,Closing Scheduler,4,Dark mode looks fantastic and makes it easier on my eyes.
+122,2025-11-11,Closing Scheduler,2,
+123,2025-05-06,Doc Uploader,4,"MFA setup is unclear, I can’t log in anymore. MFA setup is unclear, I can’t log in anymore."
+124,2025-09-29,Closing Scheduler,1,Absolutely love the new dashboard! Smooth and reliable.
+125,2025-07-21,Doc Uploader,5,Absolutely love the new dashboard! Smooth and reliable.
+126,2025-03-10,Doc Uploader,1,Average experience. Nothing special.
+127,2025-05-13,Doc Uploader,1,Average experience. Nothing special.
+128,2025-04-27,Doc Uploader,4,Delivery was late and packaging damaged. Crashes every time I try to upload a file.
+129,2025-08-04,Closing Scheduler,4,Search results feel random and unhelpful. Crashes every time I try to upload a file.
+130,2025-07-10,Closing Scheduler,1,
+131,2025-05-11,Loan Portal,1,Absolutely love the new dashboard! Smooth and reliable.
+132,2025-05-29,Closing Scheduler,2,"Solid product, integrates well with our workflow."
+133,2025-09-05,Closing Scheduler,1,Average experience. Nothing special.
+134,2025-02-28,Doc Uploader,5,Absolutely love the new dashboard! Smooth and reliable.
+135,2025-06-14,Doc Uploader,5,Terrible. Payment failed multiple times and no support response.
+136,2025-11-14,Rate Tracker,2,Dark mode looks fantastic and makes it easier on my eyes.
+137,2025-09-13,Doc Uploader,2,
+138,2025-07-11,Rate Tracker,1,"Decent, though could be faster."
+139,2025-07-07,Doc Uploader,3,The patch broke my saved settings. Please fix ASAP.
+140,2025-09-27,Loan Portal,1,Absolutely love the new dashboard! Smooth and reliable.
+141,2025-09-10,Rate Tracker,1,Dark mode looks fantastic and makes it easier on my eyes.
+142,2025-03-30,Closing Scheduler,4,Average experience. Nothing special.
+143,2025-12-14,Loan Portal,2,"Solid product, integrates well with our workflow."
+144,2025-05-13,Rate Tracker,1,
+145,2025-05-31,Closing Scheduler,2,Absolutely love the new dashboard! Smooth and reliable.
+146,2025-04-10,Closing Scheduler,3,"It works as expected, not much else to say."
+147,2025-06-02,Loan Portal,1,Support team was quick and kind.
+148,2025-07-21,Closing Scheduler,2,Dark mode looks fantastic and makes it easier on my eyes.
+149,2025-03-20,Closing Scheduler,1,"MFA setup is unclear, I can’t log in anymore."
+150,2025-04-01,Rate Tracker,1,"Keeps recommending products I already bought. Very annoying. MFA setup is unclear, I can’t log in anymore."

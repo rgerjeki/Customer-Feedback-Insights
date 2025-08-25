@@ -1,0 +1,151 @@
+ticket_id,created_at,product,rating,review_text
+1,2025-04-14,Widget A,1,"Great onboarding, felt very intuitive."
+2,2025-09-15,Widget B,2,"MFA setup is unclear, I can’t log in anymore."
+3,2025-10-06,Widget C,1,"MFA setup is unclear, I can’t log in anymore."
+4,2025-08-08,Widget C,1,"Search results feel random and unhelpful. Login screen won’t load since the last update, very frustrating."
+5,2025-01-26,Widget B,5,
+6,2025-07-01,Widget A,3,"Decent, though could be faster."
+7,2025-08-15,Widget A,5,"It works as expected, not much else to say."
+8,2025-01-04,Widget C,2,
+9,2025-01-01,Widget C,2,"Delivery was late and packaging damaged. MFA setup is unclear, I can’t log in anymore."
+10,2025-07-08,Widget C,4,Crashes every time I try to upload a file.
+11,2025-10-16,Widget C,4,"Decent, though could be faster."
+12,2025-04-20,Widget A,1,Average experience. Nothing special.
+13,2025-02-08,Widget C,1,"Great onboarding, felt very intuitive."
+14,2025-01-13,Widget C,4,The patch broke my saved settings. Please fix ASAP.
+15,2025-10-23,Widget C,5,Average experience. Nothing special.
+16,2025-01-14,Widget C,2,Absolutely love the new dashboard! Smooth and reliable.
+17,2025-09-13,Widget A,2,"Ok overall, but some things feel outdated."
+18,2025-10-29,Widget A,2,Support team was quick and kind.
+19,2025-05-16,Widget C,4,Terrible. Payment failed multiple times and no support response.
+20,2025-03-08,Widget B,4,Crashes every time I try to upload a file.
+21,2025-06-06,Widget A,4,Absolutely love the new dashboard! Smooth and reliable.
+22,2025-06-17,Widget B,4,"MFA setup is unclear, I can’t log in anymore."
+23,2025-12-10,Widget B,3,"Login screen won’t load since the last update, very frustrating. MFA setup is unclear, I can’t log in anymore."
+24,2025-12-09,Widget B,2,"Ok overall, but some things feel outdated."
+25,2025-04-29,Widget C,2,The patch broke my saved settings. Please fix ASAP.
+26,2025-04-29,Widget A,4,This app has saved me hours every week.
+27,2025-01-14,Widget A,1,Delivery was late and packaging damaged.
+28,2025-05-16,Widget C,1,Terrible. Payment failed multiple times and no support response.
+29,2025-09-01,Widget C,5,"Decent, though could be faster."
+30,2025-02-18,Widget B,5,Search results feel random and unhelpful.
+31,2025-03-09,Widget A,3,Search results feel random and unhelpful.
+32,2025-11-12,Widget A,1,This app has saved me hours every week.
+33,2025-11-09,Widget A,5,Crashes every time I try to upload a file.
+34,2025-03-24,Widget B,3,Support team was quick and kind.
+35,2025-08-25,Widget B,1,Dark mode looks fantastic and makes it easier on my eyes.
+36,2025-04-10,Widget C,1,Search results feel random and unhelpful.
+37,2025-01-24,Widget B,5,Absolutely love the new dashboard! Smooth and reliable.
+38,2025-11-29,Widget A,4,Average experience. Nothing special.
+39,2025-04-07,Widget C,2,Dark mode looks fantastic and makes it easier on my eyes.
+40,2025-10-14,Widget B,4,"Ok overall, but some things feel outdated."
+41,2025-05-05,Widget C,5,Crashes every time I try to upload a file.
+42,2025-10-17,Widget A,4,"Search results feel random and unhelpful. Charged twice for the same invoice, refund process unclear."
+43,2025-10-31,Widget B,1,Keeps recommending products I already bought. Very annoying.
+44,2025-10-18,Widget B,1,Absolutely love the new dashboard! Smooth and reliable.
+45,2025-04-21,Widget B,2,"Solid product, integrates well with our workflow."
+46,2025-11-01,Widget B,1,Crashes every time I try to upload a file.
+47,2025-09-26,Widget C,1,"It works as expected, not much else to say."
+48,2025-07-22,Widget B,1,"Charged twice for the same invoice, refund process unclear."
+49,2025-10-14,Widget B,2,"Login screen won’t load since the last update, very frustrating."
+50,2025-02-04,Widget C,1,"Charged twice for the same invoice, refund process unclear."
+51,2025-05-06,Widget B,5,"Charged twice for the same invoice, refund process unclear. Delivery was late and packaging damaged."
+52,2025-05-21,Widget B,4,Support team was quick and kind.
+53,2025-01-17,Widget B,2,"Ok overall, but some things feel outdated."
+54,2025-04-16,Widget B,3,"MFA setup is unclear, I can’t log in anymore."
+55,2025-10-10,Widget B,5,
+56,2025-05-26,Widget B,4,Average experience. Nothing special.
+57,2025-10-21,Widget B,4,
+58,2025-09-11,Widget B,2,"Decent, though could be faster."
+59,2025-01-17,Widget B,4,Delivery was late and packaging damaged.
+60,2025-11-25,Widget A,5,"Ok overall, but some things feel outdated."
+61,2025-05-24,Widget C,4,Delivery was late and packaging damaged.
+62,2025-12-26,Widget C,1,Dark mode looks fantastic and makes it easier on my eyes.
+63,2025-08-12,Widget A,5,Terrible. Payment failed multiple times and no support response. Terrible. Payment failed multiple times and no support response.
+64,2025-10-18,Widget B,1,
+65,2025-06-17,Widget B,1,"Login screen won’t load since the last update, very frustrating."
+66,2025-11-03,Widget B,1,Delivery was late and packaging damaged.
+67,2025-10-19,Widget B,3,"Solid product, integrates well with our workflow."
+68,2025-09-03,Widget A,2,Absolutely love the new dashboard! Smooth and reliable.
+69,2025-10-13,Widget B,1,"Solid product, integrates well with our workflow."
+70,2025-02-20,Widget B,3,"Ok overall, but some things feel outdated."
+71,2025-08-02,Widget C,4,"It works as expected, not much else to say."
+72,2025-06-13,Widget B,3,Support team was quick and kind.
+73,2025-02-06,Widget A,3,"MFA setup is unclear, I can’t log in anymore."
+74,2025-05-08,Widget B,2,Absolutely love the new dashboard! Smooth and reliable.
+75,2025-07-24,Widget C,4,Absolutely love the new dashboard! Smooth and reliable.
+76,2025-04-21,Widget C,4,"It works as expected, not much else to say."
+77,2025-06-22,Widget A,3,This app has saved me hours every week.
+78,2025-01-02,Widget B,5,"Ok overall, but some things feel outdated."
+79,2025-06-21,Widget A,2,"Ok overall, but some things feel outdated."
+80,2025-01-11,Widget A,5,"Solid product, integrates well with our workflow."
+81,2025-03-14,Widget C,4,Average experience. Nothing special.
+82,2025-03-01,Widget A,5,Average experience. Nothing special.
+83,2025-01-17,Widget B,2,"Great onboarding, felt very intuitive."
+84,2025-08-06,Widget A,2,"Charged twice for the same invoice, refund process unclear."
+85,2025-11-03,Widget C,4,"It works as expected, not much else to say."
+86,2025-07-14,Widget C,5,Delivery was late and packaging damaged.
+87,2025-03-09,Widget C,5,Crashes every time I try to upload a file.
+88,2025-03-15,Widget A,2,"Great onboarding, felt very intuitive."
+89,2025-01-12,Widget C,5,"Decent, though could be faster."
+90,2025-03-01,Widget A,2,"MFA setup is unclear, I can’t log in anymore. The patch broke my saved settings. Please fix ASAP."
+91,2025-07-22,Widget A,2,
+92,2025-09-02,Widget A,1,Support team was quick and kind.
+93,2025-01-24,Widget A,1,"Decent, though could be faster."
+94,2025-11-01,Widget C,4,"Solid product, integrates well with our workflow."
+95,2025-08-31,Widget B,4,Average experience. Nothing special.
+96,2025-08-05,Widget B,2,"Great onboarding, felt very intuitive."
+97,2025-09-25,Widget B,4,"MFA setup is unclear, I can’t log in anymore."
+98,2025-11-30,Widget C,3,
+99,2025-11-08,Widget C,5,"Login screen won’t load since the last update, very frustrating. MFA setup is unclear, I can’t log in anymore."
+100,2025-10-30,Widget B,5,"Decent, though could be faster."
+101,2025-03-08,Widget A,4,"MFA setup is unclear, I can’t log in anymore."
+102,2025-10-18,Widget C,4,Absolutely love the new dashboard! Smooth and reliable.
+103,2025-12-28,Widget B,2,"Charged twice for the same invoice, refund process unclear."
+104,2025-06-29,Widget A,1,"Ok overall, but some things feel outdated."
+105,2025-10-30,Widget C,3,Support team was quick and kind.
+106,2025-01-15,Widget A,1,This app has saved me hours every week.
+107,2025-05-17,Widget B,5,Support team was quick and kind.
+108,2025-08-16,Widget B,4,"Solid product, integrates well with our workflow."
+109,2025-10-12,Widget A,3,Support team was quick and kind.
+110,2025-12-15,Widget B,1,Crashes every time I try to upload a file.
+111,2025-12-21,Widget A,1,Terrible. Payment failed multiple times and no support response.
+112,2025-05-19,Widget C,3,Absolutely love the new dashboard! Smooth and reliable.
+113,2025-12-05,Widget A,3,"Solid product, integrates well with our workflow."
+114,2025-08-16,Widget A,4,"Login screen won’t load since the last update, very frustrating. The patch broke my saved settings. Please fix ASAP."
+115,2025-10-05,Widget C,3,Search results feel random and unhelpful.
+116,2025-11-16,Widget B,1,Support team was quick and kind.
+117,2025-11-21,Widget A,3,"Charged twice for the same invoice, refund process unclear. MFA setup is unclear, I can’t log in anymore."
+118,2025-07-26,Widget B,4,This app has saved me hours every week.
+119,2025-08-17,Widget A,3,This app has saved me hours every week.
+120,2025-02-09,Widget B,2,Support team was quick and kind.
+121,2025-03-05,Widget A,3,Support team was quick and kind.
+122,2025-05-29,Widget B,4,"Great onboarding, felt very intuitive."
+123,2025-02-03,Widget C,4,Average experience. Nothing special.
+124,2025-08-22,Widget B,5,Search results feel random and unhelpful.
+125,2025-11-23,Widget C,3,Crashes every time I try to upload a file.
+126,2025-09-23,Widget C,1,Dark mode looks fantastic and makes it easier on my eyes.
+127,2025-07-15,Widget A,2,Support team was quick and kind.
+128,2025-02-26,Widget A,5,"Solid product, integrates well with our workflow."
+129,2025-07-17,Widget C,3,"Crashes every time I try to upload a file. MFA setup is unclear, I can’t log in anymore."
+130,2025-06-05,Widget C,1,"MFA setup is unclear, I can’t log in anymore."
+131,2025-04-01,Widget B,2,"Solid product, integrates well with our workflow."
+132,2025-09-26,Widget B,5,"Great onboarding, felt very intuitive."
+133,2025-10-23,Widget A,1,"Decent, though could be faster."
+134,2025-03-23,Widget B,4,This app has saved me hours every week.
+135,2025-12-18,Widget C,5,Terrible. Payment failed multiple times and no support response. Search results feel random and unhelpful.
+136,2025-07-10,Widget C,4,"Decent, though could be faster."
+137,2025-06-11,Widget C,4,Terrible. Payment failed multiple times and no support response.
+138,2025-11-27,Widget B,5,"Login screen won’t load since the last update, very frustrating."
+139,2025-09-07,Widget A,2,"Great onboarding, felt very intuitive."
+140,2025-07-17,Widget B,1,"Decent, though could be faster."
+141,2025-10-23,Widget A,4,Support team was quick and kind.
+142,2025-06-17,Widget B,5,Crashes every time I try to upload a file. Crashes every time I try to upload a file.
+143,2025-09-07,Widget C,3,"Charged twice for the same invoice, refund process unclear."
+144,2025-11-22,Widget B,1,"Decent, though could be faster."
+145,2025-01-11,Widget B,3,Average experience. Nothing special.
+146,2025-04-25,Widget C,1,"It works as expected, not much else to say."
+147,2025-01-12,Widget B,3,Dark mode looks fantastic and makes it easier on my eyes.
+148,2025-10-23,Widget C,2,This app has saved me hours every week.
+149,2025-07-18,Widget C,3,"Decent, though could be faster."
+150,2025-11-11,Widget A,4,

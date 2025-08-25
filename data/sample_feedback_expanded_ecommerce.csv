@@ -1,0 +1,151 @@
+ticket_id,created_at,product,rating,review_text
+1,2025-02-04,Storefront,5,"Solid product, integrates well with our workflow."
+2,2025-10-04,Storefront,3,
+3,2025-10-23,Storefront,2,"Solid product, integrates well with our workflow."
+4,2025-08-06,Inventory API,2,Dark mode looks fantastic and makes it easier on my eyes.
+5,2025-03-29,Recommender,3,"Solid product, integrates well with our workflow."
+6,2025-04-04,Inventory API,5,Average experience. Nothing special.
+7,2025-04-10,Recommender,4,This app has saved me hours every week.
+8,2025-01-11,Recommender,2,Dark mode looks fantastic and makes it easier on my eyes.
+9,2025-01-01,Recommender,5,Search results feel random and unhelpful.
+10,2025-07-06,Recommender,4,This app has saved me hours every week.
+11,2025-07-11,Storefront,1,This app has saved me hours every week.
+12,2025-05-01,Recommender,3,Support team was quick and kind.
+13,2025-01-17,Recommender,5,"Great onboarding, felt very intuitive."
+14,2025-02-07,Inventory API,4,Delivery was late and packaging damaged. Search results feel random and unhelpful.
+15,2025-12-14,Recommender,1,Support team was quick and kind.
+16,2025-06-15,Inventory API,5,Dark mode looks fantastic and makes it easier on my eyes.
+17,2025-01-24,Storefront,4,"Solid product, integrates well with our workflow."
+18,2025-09-02,Storefront,4,"Keeps recommending products I already bought. Very annoying. Login screen won’t load since the last update, very frustrating."
+19,2025-10-02,Recommender,1,"Login screen won’t load since the last update, very frustrating."
+20,2025-09-19,Storefront,5,This app has saved me hours every week.
+21,2025-02-03,Inventory API,1,"Ok overall, but some things feel outdated."
+22,2025-07-23,Recommender,2,Search results feel random and unhelpful.
+23,2025-01-21,Recommender,5,"Solid product, integrates well with our workflow."
+24,2025-02-28,Inventory API,2,Dark mode looks fantastic and makes it easier on my eyes.
+25,2025-12-20,Recommender,2,"Charged twice for the same invoice, refund process unclear."
+26,2025-04-07,Recommender,3,Absolutely love the new dashboard! Smooth and reliable.
+27,2025-09-29,Recommender,4,"MFA setup is unclear, I can’t log in anymore."
+28,2025-08-09,Storefront,1,"It works as expected, not much else to say."
+29,2025-05-11,Recommender,2,"MFA setup is unclear, I can’t log in anymore."
+30,2025-07-04,Storefront,5,"Decent, though could be faster."
+31,2025-08-31,Storefront,3,Search results feel random and unhelpful.
+32,2025-12-07,Inventory API,4,"It works as expected, not much else to say."
+33,2025-03-31,Storefront,5,This app has saved me hours every week.
+34,2025-06-08,Storefront,2,"Ok overall, but some things feel outdated."
+35,2025-01-10,Recommender,4,"MFA setup is unclear, I can’t log in anymore."
+36,2025-10-28,Inventory API,5,"Decent, though could be faster."
+37,2025-12-06,Recommender,5,"It works as expected, not much else to say."
+38,2025-08-29,Storefront,4,Keeps recommending products I already bought. Very annoying.
+39,2025-01-31,Inventory API,4,
+40,2025-08-16,Storefront,2,Support team was quick and kind.
+41,2025-05-21,Storefront,5,Support team was quick and kind.
+42,2025-05-13,Inventory API,2,"Ok overall, but some things feel outdated."
+43,2025-03-14,Storefront,5,Average experience. Nothing special.
+44,2025-11-16,Inventory API,5,
+45,2025-12-05,Recommender,2,Average experience. Nothing special.
+46,2025-07-15,Storefront,2,The patch broke my saved settings. Please fix ASAP.
+47,2025-08-02,Recommender,4,"Charged twice for the same invoice, refund process unclear."
+48,2025-08-16,Recommender,3,Support team was quick and kind.
+49,2025-05-10,Inventory API,1,"MFA setup is unclear, I can’t log in anymore."
+50,2025-05-16,Inventory API,5,This app has saved me hours every week.
+51,2025-03-22,Inventory API,2,"Ok overall, but some things feel outdated."
+52,2025-04-24,Recommender,2,Support team was quick and kind.
+53,2025-09-28,Storefront,5,"Ok overall, but some things feel outdated."
+54,2025-09-13,Storefront,3,This app has saved me hours every week.
+55,2025-07-15,Inventory API,3,"Decent, though could be faster."
+56,2025-12-30,Inventory API,2,"MFA setup is unclear, I can’t log in anymore."
+57,2025-06-30,Inventory API,2,This app has saved me hours every week.
+58,2025-05-18,Recommender,5,"It works as expected, not much else to say."
+59,2025-08-21,Recommender,3,Search results feel random and unhelpful. Crashes every time I try to upload a file.
+60,2025-04-03,Inventory API,2,
+61,2025-04-13,Storefront,3,"Great onboarding, felt very intuitive."
+62,2025-09-15,Inventory API,4,Absolutely love the new dashboard! Smooth and reliable.
+63,2025-09-13,Storefront,4,Absolutely love the new dashboard! Smooth and reliable.
+64,2025-02-19,Storefront,5,Absolutely love the new dashboard! Smooth and reliable.
+65,2025-05-13,Storefront,4,Support team was quick and kind.
+66,2025-06-28,Storefront,1,"Crashes every time I try to upload a file. Login screen won’t load since the last update, very frustrating."
+67,2025-07-03,Inventory API,5,Dark mode looks fantastic and makes it easier on my eyes.
+68,2025-11-23,Recommender,1,Support team was quick and kind.
+69,2025-04-25,Storefront,2,This app has saved me hours every week.
+70,2025-05-12,Inventory API,3,"MFA setup is unclear, I can’t log in anymore."
+71,2025-07-23,Recommender,2,Support team was quick and kind.
+72,2025-04-02,Inventory API,1,"Decent, though could be faster."
+73,2025-01-14,Storefront,2,Keeps recommending products I already bought. Very annoying.
+74,2025-04-11,Recommender,4,Support team was quick and kind.
+75,2025-12-01,Storefront,2,"Great onboarding, felt very intuitive."
+76,2025-09-09,Storefront,2,Terrible. Payment failed multiple times and no support response.
+77,2025-07-18,Recommender,2,Dark mode looks fantastic and makes it easier on my eyes.
+78,2025-05-25,Storefront,5,Delivery was late and packaging damaged. Terrible. Payment failed multiple times and no support response.
+79,2025-12-01,Storefront,5,Search results feel random and unhelpful.
+80,2025-12-18,Recommender,4,Support team was quick and kind.
+81,2025-10-24,Storefront,4,"Great onboarding, felt very intuitive."
+82,2025-07-27,Recommender,4,Dark mode looks fantastic and makes it easier on my eyes.
+83,2025-12-10,Recommender,1,"MFA setup is unclear, I can’t log in anymore. The patch broke my saved settings. Please fix ASAP."
+84,2025-06-02,Inventory API,5,Support team was quick and kind.
+85,2025-06-19,Storefront,2,Dark mode looks fantastic and makes it easier on my eyes.
+86,2025-01-07,Inventory API,1,Keeps recommending products I already bought. Very annoying. Crashes every time I try to upload a file.
+87,2025-09-22,Storefront,1,"Login screen won’t load since the last update, very frustrating."
+88,2025-05-12,Recommender,5,Crashes every time I try to upload a file.
+89,2025-09-06,Storefront,4,"Solid product, integrates well with our workflow."
+90,2025-09-19,Storefront,4,Dark mode looks fantastic and makes it easier on my eyes.
+91,2025-11-27,Inventory API,3,"Great onboarding, felt very intuitive."
+92,2025-01-16,Recommender,1,Dark mode looks fantastic and makes it easier on my eyes.
+93,2025-11-23,Recommender,3,"It works as expected, not much else to say."
+94,2025-06-18,Recommender,1,"Ok overall, but some things feel outdated."
+95,2025-07-21,Recommender,3,"Solid product, integrates well with our workflow."
+96,2025-07-18,Storefront,2,"Decent, though could be faster."
+97,2025-09-28,Inventory API,3,"It works as expected, not much else to say."
+98,2025-04-27,Inventory API,4,The patch broke my saved settings. Please fix ASAP. Search results feel random and unhelpful.
+99,2025-12-12,Recommender,5,"It works as expected, not much else to say."
+100,2025-03-22,Recommender,1,"Great onboarding, felt very intuitive."
+101,2025-05-10,Inventory API,3,Absolutely love the new dashboard! Smooth and reliable.
+102,2025-09-30,Inventory API,4,Search results feel random and unhelpful.
+103,2025-05-14,Inventory API,1,"It works as expected, not much else to say."
+104,2025-08-10,Storefront,4,This app has saved me hours every week.
+105,2025-11-30,Storefront,1,Dark mode looks fantastic and makes it easier on my eyes.
+106,2025-09-08,Recommender,3,Keeps recommending products I already bought. Very annoying.
+107,2025-01-06,Inventory API,3,"Decent, though could be faster."
+108,2025-05-08,Recommender,4,Crashes every time I try to upload a file.
+109,2025-12-19,Recommender,2,"Charged twice for the same invoice, refund process unclear."
+110,2025-06-10,Storefront,4,Absolutely love the new dashboard! Smooth and reliable.
+111,2025-10-31,Inventory API,5,"Solid product, integrates well with our workflow."
+112,2025-12-28,Recommender,5,This app has saved me hours every week.
+113,2025-10-15,Inventory API,5,Absolutely love the new dashboard! Smooth and reliable.
+114,2025-12-02,Inventory API,1,"Great onboarding, felt very intuitive."
+115,2025-02-28,Recommender,4,Dark mode looks fantastic and makes it easier on my eyes.
+116,2025-10-25,Recommender,1,Dark mode looks fantastic and makes it easier on my eyes.
+117,2025-07-12,Recommender,5,This app has saved me hours every week.
+118,2025-09-11,Recommender,4,Absolutely love the new dashboard! Smooth and reliable.
+119,2025-05-31,Inventory API,1,Delivery was late and packaging damaged.
+120,2025-11-14,Inventory API,4,"It works as expected, not much else to say."
+121,2025-02-13,Recommender,3,Support team was quick and kind.
+122,2025-11-08,Storefront,2,Delivery was late and packaging damaged.
+123,2025-04-11,Recommender,1,"Ok overall, but some things feel outdated."
+124,2025-05-13,Inventory API,2,"Charged twice for the same invoice, refund process unclear."
+125,2025-03-21,Inventory API,4,
+126,2025-02-27,Storefront,5,"Decent, though could be faster."
+127,2025-12-11,Inventory API,5,Dark mode looks fantastic and makes it easier on my eyes.
+128,2025-02-21,Inventory API,1,"Login screen won’t load since the last update, very frustrating."
+129,2025-12-01,Recommender,2,Average experience. Nothing special.
+130,2025-08-17,Storefront,4,"Great onboarding, felt very intuitive."
+131,2025-10-13,Storefront,2,Dark mode looks fantastic and makes it easier on my eyes.
+132,2025-01-03,Storefront,3,Average experience. Nothing special.
+133,2025-09-02,Recommender,3,"Decent, though could be faster."
+134,2025-01-29,Inventory API,2,
+135,2025-08-29,Inventory API,3,"Charged twice for the same invoice, refund process unclear."
+136,2025-06-04,Inventory API,5,"It works as expected, not much else to say."
+137,2025-04-03,Storefront,3,This app has saved me hours every week.
+138,2025-08-19,Inventory API,4,"MFA setup is unclear, I can’t log in anymore."
+139,2025-01-05,Inventory API,3,"It works as expected, not much else to say."
+140,2025-03-18,Storefront,3,"Decent, though could be faster."
+141,2025-04-13,Storefront,2,"MFA setup is unclear, I can’t log in anymore."
+142,2025-10-14,Storefront,1,This app has saved me hours every week.
+143,2025-11-19,Storefront,4,"Login screen won’t load since the last update, very frustrating."
+144,2025-06-27,Recommender,3,This app has saved me hours every week.
+145,2025-06-17,Inventory API,3,"It works as expected, not much else to say."
+146,2025-05-16,Storefront,5,"MFA setup is unclear, I can’t log in anymore."
+147,2025-09-13,Inventory API,2,"Ok overall, but some things feel outdated."
+148,2025-09-28,Storefront,5,Support team was quick and kind.
+149,2025-03-28,Storefront,2,"It works as expected, not much else to say."
+150,2025-08-16,Inventory API,2,

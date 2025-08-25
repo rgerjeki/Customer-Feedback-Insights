@@ -1,0 +1,151 @@
+ticket_id,created_at,product,rating,review_text
+1,2025-05-13,Shipping,3,"Decent, though could be faster."
+2,2025-11-11,Shipping,2,Dark mode looks fantastic and makes it easier on my eyes.
+3,2025-01-25,Identity,1,Support team was quick and kind.
+4,2025-05-31,Returns,1,"It works as expected, not much else to say."
+5,2025-10-08,Identity,5,"Charged twice for the same invoice, refund process unclear."
+6,2025-12-22,Identity,2,Average experience. Nothing special.
+7,2025-05-29,Billing,4,"Ok overall, but some things feel outdated."
+8,2025-03-04,Identity,3,Absolutely love the new dashboard! Smooth and reliable.
+9,2025-01-18,Shipping,4,Support team was quick and kind.
+10,2025-03-28,Returns,2,Terrible. Payment failed multiple times and no support response.
+11,2025-08-24,Shipping,1,"Charged twice for the same invoice, refund process unclear."
+12,2025-11-16,Identity,4,Absolutely love the new dashboard! Smooth and reliable.
+13,2025-09-06,Shipping,5,"Delivery was late and packaging damaged. Login screen won’t load since the last update, very frustrating."
+14,2025-09-23,Returns,1,Support team was quick and kind.
+15,2025-01-11,Shipping,2,Support team was quick and kind.
+16,2025-12-10,Identity,5,"Great onboarding, felt very intuitive."
+17,2025-07-05,Billing,4,"It works as expected, not much else to say."
+18,2025-08-10,Returns,4,"Decent, though could be faster."
+19,2025-09-28,Shipping,3,Search results feel random and unhelpful.
+20,2025-07-26,Shipping,4,"Ok overall, but some things feel outdated."
+21,2025-12-24,Shipping,2,
+22,2025-01-26,Shipping,3,"Great onboarding, felt very intuitive."
+23,2025-02-15,Returns,1,"Solid product, integrates well with our workflow."
+24,2025-06-20,Billing,2,Keeps recommending products I already bought. Very annoying. Keeps recommending products I already bought. Very annoying.
+25,2025-07-02,Billing,5,Average experience. Nothing special.
+26,2025-03-18,Returns,2,"Solid product, integrates well with our workflow."
+27,2025-11-30,Shipping,2,"Solid product, integrates well with our workflow."
+28,2025-05-05,Returns,1,Crashes every time I try to upload a file.
+29,2025-12-21,Identity,2,Average experience. Nothing special.
+30,2025-07-12,Identity,2,Delivery was late and packaging damaged.
+31,2025-10-26,Billing,1,"Decent, though could be faster."
+32,2025-10-24,Identity,1,Average experience. Nothing special.
+33,2025-06-29,Billing,4,Absolutely love the new dashboard! Smooth and reliable.
+34,2025-09-27,Shipping,1,This app has saved me hours every week.
+35,2025-08-20,Returns,2,"Login screen won’t load since the last update, very frustrating."
+36,2025-04-06,Shipping,1,"It works as expected, not much else to say."
+37,2025-02-04,Identity,3,Support team was quick and kind.
+38,2025-11-15,Shipping,3,"Solid product, integrates well with our workflow."
+39,2025-09-15,Returns,3,"It works as expected, not much else to say."
+40,2025-01-06,Shipping,1,Search results feel random and unhelpful.
+41,2025-04-15,Returns,2,This app has saved me hours every week.
+42,2025-03-22,Identity,3,"Charged twice for the same invoice, refund process unclear."
+43,2025-07-07,Shipping,4,"Ok overall, but some things feel outdated."
+44,2025-08-30,Returns,1,Support team was quick and kind.
+45,2025-02-21,Returns,2,Search results feel random and unhelpful.
+46,2025-10-22,Identity,5,Keeps recommending products I already bought. Very annoying.
+47,2025-03-04,Returns,2,"Decent, though could be faster."
+48,2025-06-11,Shipping,2,
+49,2025-01-04,Identity,2,This app has saved me hours every week.
+50,2025-03-24,Shipping,3,Search results feel random and unhelpful. The patch broke my saved settings. Please fix ASAP.
+51,2025-01-16,Shipping,5,Support team was quick and kind.
+52,2025-06-05,Identity,2,Search results feel random and unhelpful.
+53,2025-12-21,Shipping,4,"Ok overall, but some things feel outdated."
+54,2025-05-30,Identity,1,Absolutely love the new dashboard! Smooth and reliable.
+55,2025-03-03,Identity,3,Dark mode looks fantastic and makes it easier on my eyes.
+56,2025-04-03,Returns,3,Support team was quick and kind.
+57,2025-10-10,Shipping,1,"Decent, though could be faster."
+58,2025-01-01,Billing,2,"It works as expected, not much else to say."
+59,2025-08-18,Billing,2,"Great onboarding, felt very intuitive."
+60,2025-04-30,Returns,4,"Login screen won’t load since the last update, very frustrating."
+61,2025-06-19,Identity,4,
+62,2025-04-14,Shipping,2,This app has saved me hours every week.
+63,2025-02-28,Identity,2,The patch broke my saved settings. Please fix ASAP. Terrible. Payment failed multiple times and no support response.
+64,2025-12-03,Billing,2,Search results feel random and unhelpful.
+65,2025-04-07,Shipping,4,The patch broke my saved settings. Please fix ASAP.
+66,2025-12-17,Identity,3,"Great onboarding, felt very intuitive."
+67,2025-03-10,Shipping,2,
+68,2025-09-13,Returns,4,
+69,2025-03-03,Shipping,3,"Great onboarding, felt very intuitive."
+70,2025-09-20,Billing,3,Absolutely love the new dashboard! Smooth and reliable.
+71,2025-08-02,Billing,5,Average experience. Nothing special.
+72,2025-01-09,Shipping,4,The patch broke my saved settings. Please fix ASAP.
+73,2025-06-13,Billing,2,"Great onboarding, felt very intuitive."
+74,2025-11-15,Shipping,1,
+75,2025-12-01,Shipping,5,Dark mode looks fantastic and makes it easier on my eyes.
+76,2025-08-22,Shipping,5,Average experience. Nothing special.
+77,2025-12-30,Returns,4,Dark mode looks fantastic and makes it easier on my eyes.
+78,2025-11-01,Billing,5,Support team was quick and kind.
+79,2025-12-08,Identity,5,Average experience. Nothing special.
+80,2025-09-05,Identity,5,
+81,2025-05-20,Billing,3,"MFA setup is unclear, I can’t log in anymore."
+82,2025-04-02,Returns,5,This app has saved me hours every week.
+83,2025-08-31,Identity,4,"Decent, though could be faster."
+84,2025-03-29,Returns,4,Absolutely love the new dashboard! Smooth and reliable.
+85,2025-09-20,Billing,3,Dark mode looks fantastic and makes it easier on my eyes.
+86,2025-07-22,Returns,1,"Solid product, integrates well with our workflow."
+87,2025-07-31,Returns,5,Delivery was late and packaging damaged.
+88,2025-10-26,Identity,1,Support team was quick and kind.
+89,2025-10-08,Shipping,4,This app has saved me hours every week.
+90,2025-05-19,Identity,1,"Ok overall, but some things feel outdated."
+91,2025-02-19,Shipping,3,Crashes every time I try to upload a file.
+92,2025-08-20,Returns,2,"Ok overall, but some things feel outdated."
+93,2025-11-26,Shipping,3,"Great onboarding, felt very intuitive."
+94,2025-04-09,Billing,1,"Ok overall, but some things feel outdated."
+95,2025-06-16,Returns,5,"Login screen won’t load since the last update, very frustrating."
+96,2025-06-16,Billing,2,"Great onboarding, felt very intuitive."
+97,2025-04-18,Shipping,3,"Ok overall, but some things feel outdated."
+98,2025-03-25,Shipping,1,Average experience. Nothing special.
+99,2025-07-24,Identity,4,This app has saved me hours every week.
+100,2025-07-21,Shipping,2,"Decent, though could be faster."
+101,2025-11-16,Shipping,4,"Login screen won’t load since the last update, very frustrating. Login screen won’t load since the last update, very frustrating."
+102,2025-10-23,Shipping,3,"Great onboarding, felt very intuitive."
+103,2025-03-05,Billing,1,Keeps recommending products I already bought. Very annoying.
+104,2025-02-08,Identity,2,Terrible. Payment failed multiple times and no support response.
+105,2025-04-03,Shipping,5,Average experience. Nothing special.
+106,2025-07-27,Returns,1,Keeps recommending products I already bought. Very annoying.
+107,2025-02-05,Billing,2,Search results feel random and unhelpful.
+108,2025-09-17,Billing,2,The patch broke my saved settings. Please fix ASAP.
+109,2025-10-21,Identity,2,"Solid product, integrates well with our workflow."
+110,2025-03-23,Shipping,3,Dark mode looks fantastic and makes it easier on my eyes.
+111,2025-10-08,Billing,5,Support team was quick and kind.
+112,2025-07-09,Identity,2,Keeps recommending products I already bought. Very annoying.
+113,2025-10-02,Shipping,5,
+114,2025-01-02,Billing,2,Dark mode looks fantastic and makes it easier on my eyes.
+115,2025-11-02,Returns,5,"Ok overall, but some things feel outdated."
+116,2025-01-09,Billing,4,Absolutely love the new dashboard! Smooth and reliable.
+117,2025-09-06,Identity,5,This app has saved me hours every week.
+118,2025-01-01,Billing,2,"Charged twice for the same invoice, refund process unclear. The patch broke my saved settings. Please fix ASAP."
+119,2025-04-13,Billing,1,"Decent, though could be faster."
+120,2025-05-22,Shipping,4,This app has saved me hours every week.
+121,2025-08-17,Returns,1,"Login screen won’t load since the last update, very frustrating."
+122,2025-02-17,Identity,5,"Login screen won’t load since the last update, very frustrating."
+123,2025-03-13,Returns,2,"Ok overall, but some things feel outdated."
+124,2025-02-13,Identity,3,"Login screen won’t load since the last update, very frustrating."
+125,2025-01-02,Returns,4,"Great onboarding, felt very intuitive."
+126,2025-01-02,Billing,4,This app has saved me hours every week.
+127,2025-01-05,Identity,1,
+128,2025-01-22,Shipping,4,"Decent, though could be faster."
+129,2025-05-05,Shipping,4,"Solid product, integrates well with our workflow."
+130,2025-06-22,Returns,5,Terrible. Payment failed multiple times and no support response. Terrible. Payment failed multiple times and no support response.
+131,2025-09-13,Returns,3,Absolutely love the new dashboard! Smooth and reliable.
+132,2025-02-10,Billing,4,"Ok overall, but some things feel outdated."
+133,2025-01-22,Billing,1,"Solid product, integrates well with our workflow."
+134,2025-09-09,Shipping,5,"Great onboarding, felt very intuitive."
+135,2025-10-29,Returns,5,The patch broke my saved settings. Please fix ASAP.
+136,2025-02-18,Billing,3,"Great onboarding, felt very intuitive."
+137,2025-03-10,Billing,5,Support team was quick and kind.
+138,2025-08-31,Identity,4,Dark mode looks fantastic and makes it easier on my eyes.
+139,2025-03-29,Billing,2,"Great onboarding, felt very intuitive."
+140,2025-04-17,Billing,4,"Login screen won’t load since the last update, very frustrating. Crashes every time I try to upload a file."
+141,2025-04-06,Billing,4,Absolutely love the new dashboard! Smooth and reliable.
+142,2025-03-12,Identity,5,Dark mode looks fantastic and makes it easier on my eyes.
+143,2025-04-28,Identity,5,"It works as expected, not much else to say."
+144,2025-12-17,Shipping,2,"Ok overall, but some things feel outdated."
+145,2025-03-08,Billing,1,Absolutely love the new dashboard! Smooth and reliable.
+146,2025-04-19,Returns,1,Absolutely love the new dashboard! Smooth and reliable.
+147,2025-09-08,Identity,3,Support team was quick and kind.
+148,2025-09-30,Returns,3,Delivery was late and packaging damaged.
+149,2025-07-01,Shipping,2,
+150,2025-09-30,Identity,2,"Login screen won’t load since the last update, very frustrating."
