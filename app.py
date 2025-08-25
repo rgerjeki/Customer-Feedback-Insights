@@ -34,16 +34,6 @@ with st.sidebar:
     st.header("2) Filters")
     # (actual filter widgets rendered after data load)
 
-with st.sidebar:
-    st.markdown("---")
-    st.markdown("### 👨‍💻 About the Author")
-    st.markdown(
-        "Created by **Reese Gerjekian**  \n"
-        "[LinkedIn](https://www.linkedin.com/in/rgerjeki/) · "
-        "[GitHub](https://github.com/rgerjeki) · "
-        "[Portfolio](https://rgerjeki.github.io)"
-    )
-
 # ---- Load data ----
 def load_data() -> pd.DataFrame:
     # Load from upload or selected sample file
@@ -111,6 +101,16 @@ with st.sidebar:
         (date_min, date_max),
         min_value=date_min,
         max_value=date_max
+    )
+
+with st.sidebar:
+    st.markdown("---")
+    st.markdown("### 👨‍💻 About the Author")
+    st.markdown(
+        "Created by **Reese Gerjekian**  \n"
+        "[LinkedIn](https://www.linkedin.com/in/rgerjeki/) · "
+        "[GitHub](https://github.com/rgerjeki) · "
+        "[Portfolio](https://rgerjeki.github.io)"
     )
 
 # ---- Push data into in-memory SQLite and build WHERE ----
