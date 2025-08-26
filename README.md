@@ -1,6 +1,6 @@
 # Customer Feedback Insights — Lite (Streamlit + SQLite)
 
-A minimal, interview-friendly app that demonstrates **Customer Obsession** while staying lightweight and transparent.  
+An easy-to-use dashboard that transforms customer feedback into actionable insights with KPIs, trends, and keyword analysis.
 Upload a CSV → filter → see **KPIs**, a **trend line**, **segments by product**, and **negative insights** (comment browser, keyword hotspots, and export).  
 All aggregations are done with **SQL** against an in-memory **SQLite** table.
 
