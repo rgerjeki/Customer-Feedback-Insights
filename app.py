@@ -4,6 +4,13 @@ import sqlite3
 import altair as alt
 import os
 
+st.markdown("""
+<meta property="og:title" content="Customer Feedback Insights — Streamlit App" />
+<meta property="og:description" content="A Streamlit app to explore customer feedback with KPIs, trends, segments, and negative insights." />
+<meta property="og:url" content="https://rgerjeki-customer-feedback-insights.streamlit.app" />
+<meta property="og:image" content="" />
+""", unsafe_allow_html=True)
+
 st.set_page_config(page_title="Customer Feedback (Lite)", layout="wide")
 st.title("💬 Customer Feedback Insights — Lite")
 st.caption("A minimal Streamlit + SQLite app: upload CSV → filter → see KPIs, a trend chart, segments, and pattern-driven negative insights.")
